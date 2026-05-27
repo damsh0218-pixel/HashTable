@@ -1,0 +1,17 @@
+# Скомпилированные файлы
+*.o
+*.exe
+*.out
+hashtable
+a.out
+
+# Файлы IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Временные файлы
+*~
+*.tmp
